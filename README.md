@@ -1,4 +1,4 @@
-# Image-text-segmentation-OCRs-
+# Image-text-segmentation-OCRs
 Implementation of an Optical Character Recognition (OCR) system designed with classical image processing and Convolutional Neural Networks (CNNs). An university project for the _Proyecto Para Ciencia de Datos"_ subject.
 
 
