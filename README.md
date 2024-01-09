@@ -21,7 +21,7 @@ There are two Jupyter notebooks that can be found in the _"Notebooks"_ folder:
 - OCR limpieza entrenamiento.ipynb: whith the classification model and the preprocessing process
 - OCR segmentacion prediccion.ipynb: which contains the segmentation process
 
-The CNN model doesn't need to be trained from scratch, there's already a functional pretrained CNN in the _"models"_ folder that only needs to be loaded into the "OCR segmentacion prediccion.ipynb" notebook.
+The CNN model does not need to be trained again from scratch, there's already a functional pretrained CNN in the _"models"_ folder that only needs to be loaded into the "OCR segmentacion prediccion.ipynb" notebook.
 
 ## Data (examples used)
 
