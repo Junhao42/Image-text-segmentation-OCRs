@@ -31,4 +31,4 @@ The data we used to test the model is in the _"Data"_ folder, there are two type
 
 ## OCR paper
 
-There is a file _"OCR paper"_ located in the main branch which has an in depth explanation of the project, where all subjects regarding preprocessing, obtaining data, models training and results will be covered, including comparisons with state of the art models and both its advantages and disadvantages.
+There is a file _"OCR_implementation_process"_ located in the main branch which has an in depth explanation of the project, where all subjects regarding preprocessing, obtaining data, models training and results will be covered, including comparisons with state of the art models and both its advantages and disadvantages.
