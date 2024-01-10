@@ -3,7 +3,7 @@ Implementation of an Optical Character Recognition (OCR) system designed with cl
 
 
 ## Abstract
-In this document, a comprehensive implementation of an Optical Character Recognition (OCR) system designed from scratch will be presented, we will emphasise in the segmentation process for the precise extraction of text from images. Multiple strategies and approaches will be addressed to solve this challenge, highlighting the advantages of segmentation compared to other commonly used techniques.
+In this repository, a comprehensive python implementation of an Optical Character Recognition (OCR) system designed from scratch will be presented, we will emphasise in the segmentation process for the precise extraction of text from images. Multiple strategies and approaches will be addressed to solve this challenge, highlighting the advantages of segmentation compared to other commonly used techniques.
 
 The methodology used involves segmenting each letter in the image and then classifying it with the assistance of a Deep Learning model. An evaluation of the results obtained through the proposed implementation will be provided, comparing them with state of the art OCR models. The effectiveness of the proposed implementation was assessed using quantitative metrics, including the accuracy rate in letter identification. The strengths and limitations of the proposed implementation will be carefully examined, emphasizing the areas where it matches existing models and those where improvements may be needed. This study aims to create a baseline model for OCR implementation that can serve as a starting point for future improvements in both performance and calculation speed.
 
